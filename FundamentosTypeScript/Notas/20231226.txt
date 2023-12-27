@@ -1,0 +1,3 @@
+Requerimientos:
+NodeJs: https://nodejs.org/en
+Visual Studio Code: https://code.visualstudio.com/
