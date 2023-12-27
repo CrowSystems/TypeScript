@@ -1,3 +1,33 @@
 Requerimientos:
 NodeJs: https://nodejs.org/en
 Visual Studio Code: https://code.visualstudio.com/
+
+JavaScript:
+
+
+TypeScript:
+Abarca todo lo que tienen JavaScript, más las nuevas versiones de ECMACScript, y añade análisis estático a nuestro código.
+
+Qué significa análisis de código estático?
+Entre más rápido encuentres un error, más fácil será solucionarlo
+
+En el libro Software Engineering at google señalan 
+ciertas capas para detectar fallas en el desarrollo
+de programas:
+
+Análisis de código estático:
+corre en el editor de código en busqueda de un typo(error
+en la escritura de un término), llamadas incorrectas a 
+funciones y brinda autocompletado de código.
+
+Pruebas Unitarias(Unit Tests):
+Se realiza pruebas para verificar si una parte del código 
+hace lo que queremos que ejecute.
+
+Pruebas de Integración(Integration Tests):
+Vemos como todo el código funciona en conjunto y que se 
+ejecuta cómo deseamos.
+
+Revisión de código (Code Review) 
+Se verifica si se ha seguido con las normas, estándare y
+mejores práticas establecidas por el equipo. 
